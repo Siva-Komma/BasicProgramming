@@ -11,6 +11,7 @@ namespace BasicProgramming
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Logical Programming");
+            FlipCoin.Flip();
             Console.ReadLine();
         }
     }
