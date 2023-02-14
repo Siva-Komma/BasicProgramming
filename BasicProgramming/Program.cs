@@ -18,6 +18,7 @@ namespace BasicProgramming
             PrimeFactors.PrimeFact();
             QuotientandReminder.FindQuotientAndReminder();
             SwapTwoNumbers.Swapping();
+            EvenorOdd.CheckNumberEvenorOdd();
             Console.ReadLine();
         }
     }
