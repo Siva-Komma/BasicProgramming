@@ -16,6 +16,7 @@ namespace BasicProgramming
             PowerofTwo.Power();
             HarmonicNumber.HarmonicNum();
             PrimeFactors.PrimeFact();
+            QuotientandReminder.FindQuotientAndReminder();
             Console.ReadLine();
         }
     }
