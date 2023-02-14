@@ -19,6 +19,7 @@ namespace BasicProgramming
             QuotientandReminder.FindQuotientAndReminder();
             SwapTwoNumbers.Swapping();
             EvenorOdd.CheckNumberEvenorOdd();
+            VowelandConsonant.CheckTheCharacter();
             Console.ReadLine();
         }
     }
