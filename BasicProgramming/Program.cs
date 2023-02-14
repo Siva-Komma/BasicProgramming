@@ -12,6 +12,7 @@ namespace BasicProgramming
         {
             Console.WriteLine("Welcome to Logical Programming");
             FlipCoin.Flip();
+            LeapYear.LeapYearP();
             Console.ReadLine();
         }
     }
