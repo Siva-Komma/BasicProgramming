@@ -13,6 +13,7 @@ namespace BasicProgramming
             Console.WriteLine("Welcome to Logical Programming");
             FlipCoin.Flip();
             LeapYear.LeapYearP();
+            PowerofTwo.Power();
             Console.ReadLine();
         }
     }
