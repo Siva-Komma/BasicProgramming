@@ -15,6 +15,7 @@ namespace BasicProgramming
             LeapYear.LeapYearP();
             PowerofTwo.Power();
             HarmonicNumber.HarmonicNum();
+            PrimeFactors.PrimeFact();
             Console.ReadLine();
         }
     }
