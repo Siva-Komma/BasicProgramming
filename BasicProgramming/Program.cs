@@ -17,6 +17,7 @@ namespace BasicProgramming
             HarmonicNumber.HarmonicNum();
             PrimeFactors.PrimeFact();
             QuotientandReminder.FindQuotientAndReminder();
+            SwapTwoNumbers.Swapping();
             Console.ReadLine();
         }
     }
