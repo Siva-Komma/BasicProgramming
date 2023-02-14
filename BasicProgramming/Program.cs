@@ -20,6 +20,7 @@ namespace BasicProgramming
             SwapTwoNumbers.Swapping();
             EvenorOdd.CheckNumberEvenorOdd();
             VowelandConsonant.CheckTheCharacter();
+            LargestNumber.FindLargestNumber();
             Console.ReadLine();
         }
     }
